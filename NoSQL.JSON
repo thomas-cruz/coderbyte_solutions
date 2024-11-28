@@ -1,0 +1,6 @@
+{
+  "findAndModify":"Collection_456BV",
+  "query":{"FirstName": "Daniel", "LastName": "Smith"},
+  "update":{"$set":{"FirstName":"Danny"}},
+  "new":true
+}
